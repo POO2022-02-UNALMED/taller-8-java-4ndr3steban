@@ -37,7 +37,7 @@ public class Jugador extends Futbolista {
 	}
 
 	@Override
-	public boolean jugarConLasManos(Futbolista f) {
+	public boolean jugarConLasManos() {
 		// TODO Auto-generated method stub
 		return false;
 	}

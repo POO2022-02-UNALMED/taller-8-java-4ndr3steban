@@ -28,8 +28,7 @@ public class Portero extends Futbolista {
 		return Math.abs(dif);
 	}
 
-	@Override
-	public boolean jugarConLasManos(Futbolista f) {
+	public boolean jugarConLasManos() {
 		// TODO Auto-generated method stub
 		return true;
 	}
