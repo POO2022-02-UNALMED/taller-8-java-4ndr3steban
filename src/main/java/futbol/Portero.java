@@ -29,7 +29,6 @@ public class Portero extends Futbolista {
 	}
 
 	public boolean jugarConLasManos() {
-		// TODO Auto-generated method stub
 		return true;
 	}
 
