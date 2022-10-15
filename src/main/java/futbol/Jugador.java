@@ -32,7 +32,7 @@ public class Jugador extends Futbolista {
 	@Override
 	public String toString() {
 		
-		String txt = "El futbolista " + getNombre() +"tiene " + getEdad() + ", y juega de "  + getPosicion() +  "con el dorsal "+ dorsal + ". Ha marcado "+ golesMarcados;
+		String txt = "El futbolista " + getNombre() +" tiene " + getEdad() + ", y juega de "  + getPosicion() +  " con el dorsal "+ dorsal + ". Ha marcado "+ golesMarcados;
 		
 		return txt;
 	}
